@@ -1,2 +1,2 @@
-# optimization-of-cultured-meat
+# optimization-of-cultured-meat-production-system
 修士論文のためのコード
